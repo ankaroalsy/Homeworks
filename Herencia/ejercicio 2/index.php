@@ -1,3 +1,15 @@
+/*Un equipo de beisbol se compone de tres tipos de jugadores: pitchers, jugadores
+De posicion y bateadores designados. Los datos de cada jugador son: el numero de 
+uniforme, nombre y su posicion. En esta liga, los pitchers lanzan, participan a la 
+Defensiva pero no batean. Los bateadores designados no lanzan y no participan a la 
+defensiva(solo batean). Los jugadores de posición no lanzan, pero participan a la 
+defensiva y batean. Modele un sistema orientado a objetos con diagramas de clases 
+UML indicando las relaciones de Herencia con clases heredadas con el que controle
+los ponches recetados por los pitchers, los hits bateados por los otros jugadores 
+y los errores cometidos Por quienes participan a la defensiva. Y codifique un sistema
+mediante el cual se genere instancias de las clases jugador y jugador posición, donde
+El usuario captura sus datos Y se inserten en los respectivos objetos.*/
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
